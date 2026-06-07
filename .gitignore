@@ -33,3 +33,9 @@ backend/logs/*
 # Turborepo
 .turbo
 .gstack/
+
+# JetBrains IDE
+.idea/
+
+# Skill- Registry
+.atl/
